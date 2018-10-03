@@ -10,7 +10,7 @@ public class App {
         System.out.println(student1.listStudent);
 
 
-        Teacher teacher1 = new Teacher(35, "Tetiana Sergiivna");
+        Teacher teacher1 = new Teacher(35, "Tetiana Sergievna");
         System.out.println( teacher1 +" teaches the following list of subjects: " + teacher1.listTeacher);
 
     }
